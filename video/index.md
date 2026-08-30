@@ -17,6 +17,28 @@ nav_order: 10
 {:toc}
 </details>
 
+## [The Exochronous Universe](https://www.youtube.com/@ExochronousUniverse)
+**by Robin Booth**  30 August 2026
+
+Modern cosmology rests on the remarkable success of the ΛCDM model — a framework that describes a universe dominated by dark matter, dark energy, and an early inflationary epoch.
+But as observational precision increases, so too do the tensions.
+The Exochronous Universe is a series exploring cosmology from first principles.
+We examine:
+- The foundations of the hot Big Bang paradigm
+- The evidence for dark matter and dark energy
+- The Hubble tension
+- JWST early galaxy observations
+- The matter power spectrum and baryon acoustic oscillations
+- The formation of the cosmic microwave background
+- Large-scale structure
+- Galaxy rotation curves
+- The physical origin of cosmic redshift
+- 
+And we ask:
+Is it possible to describe these phenomena more economically — without inflation, dark matter, or dark energy?
+
+This channel presents a rigorous, open, and evidence-driven exploration of an alternative framework based on the Jeans Contraction hypothesis and the Exochronous (timeless) metric.
+
 ## [The shaky foundations of cosmology](https://youtu.be/XmzulJsGtZ4)
 **by Bjørn Ekeberg** - IAI - 2023 March 3
 
